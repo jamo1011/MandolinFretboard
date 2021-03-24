@@ -4,4 +4,4 @@ Displays the fretboard of a mandolin or other stringed instruments. User can sel
 
 Run the Mandolin.m script in matlab to use.  
 
-![example gui](https://github.com/jamo1011/MandolinFretboard/gui.PNG?raw=true)
+![example gui](https://github.com/jamo1011/MandolinFretboard/blob/main/gui.PNG?raw=true)
